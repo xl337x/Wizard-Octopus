@@ -50,7 +50,7 @@ This tool is ideal for MSSPs, blue teams, or any organization managing threat in
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/xl337x/Wizard-Octopus.git](https://github.com/xl337x/Wizard-Octopus.git) # <--- UPDATED with your username!
+    git clone [https://github.com/xl337x/Wizard-Octopus.git](https://github.com/xl337x/Wizard-Octopus.git) 
     cd Wizard-Octopus
     ```
 2.  **Configure Tenants (in `main.py`):**
@@ -158,6 +158,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### **Contact**
 
-Created by **mahdiesta** ([GitHub Profile](https://github.com/xl337x)) # <--- UPDATED with your username!
-
-#CyberSecurity #PowerShell #ThreatIntelligence #MicrosoftDefender #BlueTeam #Automation #InfosecTools
+Created by **mahdiesta** ([GitHub Profile](https://github.com/xl337x)) 
