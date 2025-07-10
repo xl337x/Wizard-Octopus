@@ -52,44 +52,16 @@ This tool is ideal for MSSPs, blue teams, or any organization managing threat in
     ```bash
     git clone https://github.com/xl337x/Wizard-Octopus.git 
     cd Wizard-Octopus
+    python3 Wizard-Octopus-Generator.py
+    <Enter YOUR tenantid , appid, appsecret>
     ```
-2.  **Configure Tenants (in `main.py`):**
-    Open `main.py` and modify the `tenant_configs` list with your actual Microsoft Defender tenant details.
-
-    *Example for a single tenant:*
-    ```python
-    tenant_configs = [
-        {
-            "tenantId": "YOUR_TENANT_ID_1",
-            "appId": "YOUR_APPLICATION_ID_1",
-            "appSecret": "YOUR_APPLICATION_SECRET_1"
-        }
-    ]
-    ```
-    *Example for multiple tenants:*
-    ```python
-    tenant_configs = [
-        {
-            "tenantId": "YOUR_TENANT_ID_1",
-            "appId": "YOUR_APPLICATION_ID_1",
-            "appSecret": "YOUR_APPLICATION_SECRET_1"
-        },
-        {
-            "tenantId": "YOUR_TENANT_ID_2",
-            "appId": "YOUR_APPLICATION_ID_2",
-            "appSecret": "YOUR_APPLICATION_SECRET_2"
-        }
-    ]
-    ```
-
-3.  **Generate the PowerShell Script:**
-    Run the Python script to generate your `Wizard-Octopus.ps1` file:
+   
+2.  **Generate the PowerShell Script:**
     ```bash
-    python main.py
-    ```
     This will create a `Wizard-Octopus.ps1` file in the same directory.
+    ```
 
-4.  **Run the PowerShell Tool:**
+3.  **Run the PowerShell Tool:**
     Execute the generated PowerShell script:
     ```powershell
     .\Wizard-Octopus.ps1
