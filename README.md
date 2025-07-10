@@ -50,7 +50,7 @@ This tool is ideal for MSSPs, blue teams, or any organization managing threat in
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/xl337x/Wizard-Octopus.git](https://github.com/xl337x/Wizard-Octopus.git) 
+    git clone https://github.com/xl337x/Wizard-Octopus.git 
     cd Wizard-Octopus
     ```
 2.  **Configure Tenants (in `main.py`):**
