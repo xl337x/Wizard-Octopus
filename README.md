@@ -79,6 +79,7 @@ This tool is ideal for MSSPs, blue teams, or any organization managing threat in
 
 ![image](https://github.com/user-attachments/assets/7ce2058e-4e3b-4848-aef7-d4e113c6c38c)
 
+![image](https://github.com/user-attachments/assets/248c2b59-6f1f-45fd-aee3-641e1a23bb90)
 
 
 
