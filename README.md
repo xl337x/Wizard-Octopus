@@ -67,6 +67,22 @@ This tool is ideal for MSSPs, blue teams, or any organization managing threat in
     .\Wizard-Octopus.ps1
     ```
     Follow the on-screen prompts to submit your IOCs.
+![image](https://github.com/user-attachments/assets/13b2d15f-985f-4b95-ba7b-d49bd1798969)
+
+![image](https://github.com/user-attachments/assets/ffba7a42-fa13-4a6f-86b5-19c8f385c714)
+
+![image](https://github.com/user-attachments/assets/94d68f50-687b-41d8-9664-4988159dfed2)
+
+![image](https://github.com/user-attachments/assets/8f514b4c-8dd4-44c6-aa7d-d81b88f0bab0)
+
+![image](https://github.com/user-attachments/assets/facba431-865c-4017-ac01-26af506ef75f)
+
+![image](https://github.com/user-attachments/assets/7ce2058e-4e3b-4848-aef7-d4e113c6c38c)
+
+
+
+
+
 
 ---
 
